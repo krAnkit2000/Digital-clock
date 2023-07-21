@@ -1,19 +1,19 @@
 {
-  "short_name": "React App",
+  "short_name": "clock",
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "https://cdn0.iconfinder.com/data/icons/education-and-school-outline/128/digital_alarm_clock_wake_up_school_times_morning-128.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "https://cdn0.iconfinder.com/data/icons/education-and-school-outline/128/digital_alarm_clock_wake_up_school_times_morning-128.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "https://cdn0.iconfinder.com/data/icons/education-and-school-outline/128/digital_alarm_clock_wake_up_school_times_morning-128.png",
       "type": "image/png",
       "sizes": "512x512"
     }
