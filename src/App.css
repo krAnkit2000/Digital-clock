@@ -29,3 +29,12 @@
     height: 30px;
     box-shadow: 4px 4px 3px rgb(103, 154, 196);
   }
+  div.date{
+  text-shadow: 1px 2px 3px  rgb(231, 161, 161);
+
+  
+  font-size: large;
+  font-weight: 700;
+  font-family: monospace;
+  
+  }
